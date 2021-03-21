@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7B7FD72C-601D-4E00-B5F0-2FF46513D60C}|Default">
+  <MonoDevelop.Ide.ItemProperties.WebTddBdd PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebTddBdd/Models/DBContextWeb.cs">
+    <Files>
+      <File FileName="WebTddBdd/Controllers/HomeController.cs" Line="12" Column="40" />
+      <File FileName="TDD/UnitCliente.cs" Line="28" Column="13" />
+      <File FileName="WebTddBdd/Models/DBContextWeb.cs" Line="13" Column="44" />
+      <File FileName="WebTddBdd/Models/Cliente.cs" Line="14" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebTddBdd" expanded="True">
+            <Node name="TDD" expanded="True" />
+            <Node name="WebTddBdd" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="DBContextWeb.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
