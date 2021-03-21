@@ -3,13 +3,13 @@ https://hub.docker.com/
 
 
 ### alguns comandos ###
-docker run ubuntu # cria ou faz o download do container no caso do exemplo "ubuntu"
-docker run -it ubuntu # roda o container em modo debugger
-docker start ubuntu # roda o container
-docker ps # lista containers ativos
-docker ps -a # lista containers ativos/nao ativos
-docker container prune # remove todos os containers ativos
-docker port dotnet-image # Mostra qual a porta interna e externa do docker  -> 80/tcp -> 0.0.0.0:5001
+docker run ubuntu # cria ou faz o download do container no caso do exemplo "ubuntu" <br />
+docker run -it ubuntu # roda o container em modo debugger<br />
+docker start ubuntu # roda o container<br />
+docker ps # lista containers ativos<br />
+docker ps -a # lista containers ativos/nao ativos<br />
+docker container prune # remove todos os containers ativos<br />
+docker port dotnet-image # Mostra qual a porta interna e externa do docker  -> 80/tcp -> 0.0.0.0:5001<br />
 
 
 
